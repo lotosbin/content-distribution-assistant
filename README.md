@@ -16,9 +16,11 @@ Content Distribution Assistant 内容分发助手(cda)
 
 ## 用
 - [ ] cda ls-platforms
+- [ ] cda publish --file sample.md --platforms v2ex,csdn
 - [ ] cda publish --content "xxxxxxx" --platforms v2ex,csdn
 - [ ] cda publish --link https://github.com/lotosbin/content-distribution-assistant/edit/master/README.md --platforms v2ex,csdn
-
+### 平台
+- [ ] v2ex
 
 ## 变(参与)
 - 提交issue 或者 pr 
